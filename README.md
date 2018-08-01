@@ -1,9 +1,6 @@
 # Material Icon Theme
 
-[![Version](https://vsmarketplacebadge.apphb.com/version-short/pkief.material-icon-theme.svg)](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/pkief.material-icon-theme.svg)](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/PKief.material-icon-theme.svg)](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-[![Build Status](https://travis-ci.org/PKief/vscode-material-icon-theme.svg?branch=master)](https://travis-ci.org/PKief/vscode-material-icon-theme)
+## **Forked [PKief](from https://github.com/PKief/vscode-material-icon-theme)**
 
 The Material Icon Theme provides lots of icons based on Material Design for Visual Studio Code.
 
@@ -117,19 +114,3 @@ Press `Ctrl-Shift-P` to open the command palette and type `Material Icons`.
 - **Hide Folder Arrows**: Hides the arrows next to the folder icons.
 
 - **Restore Default Configuration**: Reset the default configurations of the icon theme.
-
-## Icon sources
-
-* [Material Design Icons](https://materialdesignicons.com/)
-* official icons
-
-## How to contribute
-
-Read the [contribution guidelines](https://github.com/PKief/vscode-material-icon-theme/blob/master/CONTRIBUTING.md).
-
-If you have some questions or icon requests open a [new issue](https://github.com/PKief/vscode-material-icon-theme/issues) on Github.
-
-## Follow me
-
-- [Twitter](https://twitter.com/PhilippKief)
-- [Github](https://github.com/PKief)

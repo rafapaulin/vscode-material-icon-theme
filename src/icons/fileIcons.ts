@@ -450,9 +450,30 @@ export const fileIcons: FileIcons = {
         },
         {
             name: 'angular-const',
-            fileExtensions: ['const.ts', 'const.js'],
+            fileExtensions: ['const.ts', 'const.js', 'consts.ts', 'consts.js',  'constant.ts', 'constant.js', 'constants.ts', 'constants.js'],
             enabledFor: [IconPack.Angular, IconPack.Ngrx]
         },
+        {
+            name: 'angular-action',
+            fileExtensions: ['action.ts', 'action.js', 'actions.ts', 'actions.js'],
+            enabledFor: [IconPack.Angular, IconPack.Ngrx]
+        },
+        {
+            name: 'angular-effect',
+            fileExtensions: ['effect.ts', 'effect.js', 'effects.ts', 'effects.js'],
+            enabledFor: [IconPack.Angular, IconPack.Ngrx]
+        },
+        {
+            name: 'angular-interceptor',
+            fileExtensions: ['interceptor.ts', 'interceptor.js'],
+            enabledFor: [IconPack.Angular, IconPack.Ngrx]
+        },
+        {
+            name: 'angular-reducer',
+            fileExtensions: ['reducer.ts', 'reducer.js', 'reducers.ts', 'reducers.js'],
+            enabledFor: [IconPack.Angular, IconPack.Ngrx]
+        },
+
         { name: 'puppet', fileExtensions: ['pp'] },
         { name: 'elixir', fileExtensions: ['ex', 'exs', 'eex'] },
         { name: 'livescript', fileExtensions: ['ls'] },

@@ -1,19 +1,19 @@
 {
-  "name": "material-icon-theme",
-  "displayName": "Material Icon Theme",
-  "description": "Material Design Icons for Visual Studio Code",
-  "version": "3.5.1",
-  "publisher": "PKief",
+  "name": "try-material-icon-theme",
+  "displayName": "Try's Material Icon Theme",
+  "description": "The best Icons for Visual Studio Code ever",
+  "version": "3.6.0",
+  "publisher": "rafapaulin",
   "engines": {
     "vscode": "^1.5.0"
   },
-  "homepage": "https://github.com/PKief/vscode-material-icon-theme/blob/master/README.md",
+  "homepage": "https://github.com/rafapaulin/vscode-material-icon-theme/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/PKief/vscode-material-icon-theme.git"
+    "url": "https://github.com/rafapaulin/vscode-material-icon-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/PKief/vscode-material-icon-theme/issues"
+    "url": "https://github.com/rafapaulin/vscode-material-icon-theme/issues"
   },
   "icon": "logo.png",
   "galleryBanner": {
