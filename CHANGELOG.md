@@ -1,6 +1,6 @@
 # Changelog
-## 3.6.0 (2018-06-28)
-**Forked [PKief](from https://github.com/PKief/vscode-material-icon-theme)**
+## 3.8.0 (2018-06-28)
+**Forked from [PKief](https://github.com/PKief/vscode-material-icon-theme)**
 Added many new Angular icons
 
 ## 3.5.1 (2018-06-28)

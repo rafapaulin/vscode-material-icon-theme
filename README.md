@@ -1,6 +1,6 @@
 # Material Icon Theme
 
-## **Forked [PKief](from https://github.com/PKief/vscode-material-icon-theme)**
+## **Forked from [PKief](https://github.com/PKief/vscode-material-icon-theme)**
 
 The Material Icon Theme provides lots of icons based on Material Design for Visual Studio Code.
 
