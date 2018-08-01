@@ -2,7 +2,7 @@
   "name": "try-material-icon-theme",
   "displayName": "Try's Material Icon Theme",
   "description": "The best Icons for Visual Studio Code ever",
-  "version": "3.7.0",
+  "version": "3.8.0",
   "publisher": "rafapaulin",
   "engines": {
     "vscode": "^1.5.0"
